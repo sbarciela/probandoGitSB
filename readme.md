@@ -7,7 +7,7 @@
 
 
 
-#agregando simbolos
+agregando simbolos
 :)
 :(
 :0
